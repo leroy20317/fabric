@@ -15,8 +15,7 @@ Dockerfile*
 .prettierignore
 LICENSE
 .eslintcache
-eslint.config.js
-prettier.config.js
+*.config.js
 *.lock
 yarn-error.log
 .history
